@@ -35,6 +35,8 @@
 
 + [日文字体](http://www.freejapanesefont.com/) - 可以用里面的汉字
 
++ [Typewolf](http://www.typewolf.com/recommendations) - 字体使用推荐+案例
+
 
 # 设计灵感
 
