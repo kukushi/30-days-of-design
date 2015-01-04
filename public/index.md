@@ -16,8 +16,10 @@ Sketch 有一些方便设计 UI 的功能，用起来还是挺不错的。
 
 ## [第一天 - Sketch 初体验](day1)
 
-## [第二天 - 临摹 Sebastien Gabriel](day2)
+## [第二天 - 临摹 Colorful Switch](day2)
 
 ## [第三天 - 配色](day3)
+
+## [第四天 - 临摹 Twitter Lite](day4)
 
 # [设计资源](resources)
