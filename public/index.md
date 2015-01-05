@@ -22,4 +22,6 @@ Sketch 有一些方便设计 UI 的功能，用起来还是挺不错的。
 
 ## [第四天 - 临摹 Twitter Lite](day4)
 
+## [第五天 - 字体](day5)
+
 # [设计资源](resources)
