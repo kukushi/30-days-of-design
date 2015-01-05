@@ -8,7 +8,7 @@
 
 ## 头像
 
-马甲头像。都是歪果仁 [randomuser.me](https://randomuser.me/photos).  
+马甲头像。都是歪果仁 [randomuser.me](https://randomuser.me/photos).
 当然你也可以使用 [Content Generator for Sketch](https://github.com/timuric/Content-generator-sketch-plugin) 这个插件来填充内容。
 
 ## 抽象花纹背景
@@ -28,7 +28,7 @@
 用 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) Chrome 插件查询一个页面用了什么字体.
 
 + [Google Font](http://www.google.com/fonts) 和 [Adobe Typekit](https://typekit.com) 是常用的 Web Font 来源。
-+ [Font Squirrel](www.fontsquirrel.com) 通常可以找到你需要的字体，在本地系统安装。
++ [Font Squirrel](http://www.fontsquirrel.com) 通常可以找到你需要的字体，在本地系统安装。
 
 + [中文字体压缩](http://font-spider.org/)
  analyze html/css to delete unused chinese chars to make a font smaller
@@ -37,10 +37,13 @@
 
 + [Typewolf](http://www.typewolf.com/recommendations) - 字体使用推荐+案例
 
+# 教程
+
++ [Hack Design](https://hackdesign.org/lessons)
 
 # 设计灵感
 
-## 博客
+## 博客resource
 
 + https://medium.com/sketch-app
 + http://blog.mengto.com/
@@ -69,6 +72,11 @@
 + http://www.niudana.com/#sketch
 + http://bohemiancoding.com/sketch/resources/
 + http://www.sketchappsources.com/all-free-sources.html
+
+# 工具
+
++ [Pixate](http://www.pixate.com/) - 制作动画+交互原型。可以在手机上预览
++ [Macaw](http://macaw.co/) - 网站设计工具，貌似会生成牛逼的响应式 HTML + CSS
 
 # 其他
 
