@@ -43,13 +43,19 @@
 
 # 设计灵感
 
-## 博客resource
+## 博客
 
-+ https://medium.com/sketch-app
+
 + http://blog.mengto.com/
 + http://sachagreif.com
 + http://sebastien-gabriel.com/freebies.html
 + http://osvaldas.info
++ http://scotthurff.com/
+
+## 资源汇集
+
++ http://sidebar.io/
++ https://medium.com/sketch-app
 + http://www.sketchcasts.net/episodes
 + https://designcode.io/learn
 
@@ -57,6 +63,10 @@
 
 + http://beautifulpixels.com/
 + http://app.itize.us/
++ http://capptivate.co/ 捕捉 UI 动画
++ http://useyourinterface.com/ 交互设计
+
+
 
 # Sketch
 
@@ -82,3 +92,4 @@
 
 + [CodePen 去实现 Dirbbble 设计](http://give-n-go.co/)
 + [Adobe Color CC](https://color.adobe.com/)
++ [Giphy](http://giphy.com/) 从洗脑动画获得交互灵感
