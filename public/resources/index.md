@@ -58,6 +58,8 @@
 + https://medium.com/sketch-app
 + http://www.sketchcasts.net/episodes
 + https://designcode.io/learn
++ http://www.ui.cn/
++ http://www.xueui.cn/
 
 ## 移动应用设计
 
@@ -65,8 +67,6 @@
 + http://app.itize.us/
 + http://capptivate.co/ 捕捉 UI 动画
 + http://useyourinterface.com/ 交互设计
-
-
 
 # Sketch
 
