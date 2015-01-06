@@ -16,6 +16,10 @@ npm install harp -g
 harp server --port 9000
 ```
 
+# 内容建议
+
+有什么想学的东西可以去[学习主题](https://github.com/hayeah/30-days-of-design/wiki/%E5%AD%A6%E4%B9%A0%E4%B8%BB%E9%A2%98) 把你的 idea 加进去。
+
 # 主题
 
 用了 @mdo 的 [Hyde](http://andhyde.com/) 主题。
