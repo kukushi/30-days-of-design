@@ -60,6 +60,7 @@
 + https://designcode.io/learn
 + http://www.ui.cn/
 + http://www.xueui.cn/
++ http://uiweek.com/
 
 ## 移动应用设计
 
